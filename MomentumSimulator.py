@@ -125,7 +125,7 @@ if __name__ == "__main__":
     parser.add_argument(
         '-distance', help='Distance from the engine to the center of mass (m)', type=float, required=True)
     parser.add_argument(
-        '-delay', help="Delay between sending a command and actuator's movement", type=float, required=True)
+        '-delay', help="Delay between sending a command and actuator's movement (s)", type=float, required=True)
     parser.add_argument(
         '-length', help="Length of the simulation (s)", type=float, required=True)
 
