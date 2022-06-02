@@ -25,7 +25,7 @@ The Python script simulates rocket's orientation on a purely mechanical basis (n
 
 ![examplePlots](img/example.png "Example result")
 
-As you can see, the top-left plot goes to zero pretty quickly (the rocket stabilizes), so the PID values are good a nd ready to be pasted into your controller!
+As you can see, the top-left plot goes to zero pretty quickly (the rocket stabilizes), so the PID values are good and ready to be pasted into your controller!
 
 ### Help
 
