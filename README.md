@@ -14,7 +14,7 @@ The Python script simulates rocket's orientation on a purely mechanical basis (n
 1. Find physical parameters of the rocket, that is:
    1. Mass
    2. Distance from the engine to the center of mass
-   3. Mass moment of inertia ([tutorial]())
+   3. Mass moment of inertia ([tutorial](https://youtu.be/IdhV3lphRcc))
    4. Engine's thrust
    5. Delay of the actuator (time between sending a command to a physical movement of TVC mount)
 2. Run the script with above parameters and find accurate PID values!
