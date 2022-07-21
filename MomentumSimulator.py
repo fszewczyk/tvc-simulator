@@ -32,7 +32,7 @@ def setup(args):
     servo_delay = args.delay
 
     for x in range(0, int(servo_delay / dt)):
-        angle_of_rocket.append(12)
+        angle_of_rocket.append(args.angle)
         angle_of_tvc.append(0)
         angle_velocity.append(0)
         angle_acceleration.append(0)
